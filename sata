@@ -1,0 +1,17 @@
+command.cc
+command.h
+command.o
+data.log
+examples
+lex.yy.c
+lex.yy.o
+Makefile
+out
+out2
+sata
+shell
+shell.l
+shell.y
+y.tab.c
+y.tab.h
+y.tab.o
